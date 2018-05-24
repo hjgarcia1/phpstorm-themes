@@ -15,10 +15,13 @@ All themes should support the following languages:
 10. YAML
 
 ##Installation:
+
+To install copy the "icls" file to one of the following locations depending on your setup:
+
 ### On a Windows
 c:/Users/<USERNAME>/your-version-of-phpstorm/config/colors
 
-To install copy "brackets.icls" to:
+
 ### On MacOS
 ~/Library/Preferences/your-version-of-phpstorm/colors/
 
