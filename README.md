@@ -19,7 +19,7 @@ All themes should support the following languages:
 To install copy the "icls" file to one of the following locations depending on your setup:
 
 ### On a Windows
-c:/Users/<USERNAME>/your-version-of-phpstorm/config/colors
+c:/Users/USERNAME/your-version-of-phpstorm/config/colors
 
 
 ### On MacOS
