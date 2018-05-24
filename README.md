@@ -1,9 +1,20 @@
-# PHPStorm Color Scheme Collection
+# PHPStorm Color Schemes Collection
 
-A collection of Color Schemes for PHPStorm. These a my takes on some of the more popular ones. Please note these are not originals just ports from existing ones.
+A collection of Color Schemes for PHPStorm. These are my take on some of the more popular ones.
 
-Use the installations instructions below based on your setup.
+All themes should support the following languages:
+1. HTML
+2. CSS
+3. PHP
+4. Javascript
+5. LESS
+6. SCSS/SASS
+7. SQL
+8. JSON
+9. XML
+10. YAML
 
+##Installation:
 ### On a Windows
 c:/Users/<USERNAME>/your-version-of-phpstorm/config/colors
 
